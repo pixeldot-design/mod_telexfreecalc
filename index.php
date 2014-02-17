@@ -1,5 +1,5 @@
 <?php
-$adesao = 50;
+$adesao = 100;
 $adcentral_value = 289;
 $adfamily_value = 1375;
 $qtd = 0;
